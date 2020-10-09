@@ -1,6 +1,6 @@
 # Letters to Myself
 
-##Monthly Reviews
+## Monthly Reviews
 *October 22, 2020 at 1:15p*
 
 I should review these letters at least once a month. Maybe that will help me stay in my "creative mode" and remind me to expand on some of these ideas. My idea is that these are just my random ramblings but they can eventually become more complete blog posts.
@@ -10,7 +10,7 @@ I also need a blogging platform again. I want that to be on joeldare.com and tha
 I added a little "deploy" script to this project so that I can just run `./deploy.sh` and it gets pushed to Github.
 
 
-##Pure React
+## Pure React
 *October 22, 2020 at 1:00p*
 
 I've been thinking about React more lately. I've been using React for around 4 years and I just can't bring myself to like it. The other day, however, I was working on a project and thought, "React would be good for this." That was the first time I had that feeling.
