@@ -1,5 +1,15 @@
 # Letters to Myself
 
+## TRS-80 Programming
+*October 22, 2020 at 1:55p*
+
+I want to get out my TRS-80 computer and write some working software for it. I *copied* software into this machine as a kid but I never created my own application. I'd love to do that now and be able to run it on the machine that I purchased online a few years ago. That machine is currently stored in a cardboard box in my garage, I think.
+
+I'd like to adapt that machine to a recorder of some sort so that I can CSAVE and CLOAD sofware. I believe it has a mono jack connection. When I was a kid we would connect it to a tape recorder. To record a program to tape we would press *record* on the recorder and then CSAVE onto tape. To load it back we would press *play* and then CLOAD it in. I'd like to reproduce that using something like a digital voice recorder with a mono aux cable.
+
+What kind of software would I write for it? I have no idea. Maybe a little editor would be cool and easy, but the keyboard on the TRS-80 is so poor that it couldn't be used for much writing. A text adventure game would be an awesome demo of the machine. Some art work would be cool too, something similar to what I've been doing with JavaScript in the Splash of Code book. I could also write a program for drawing (maybe pixel art) and/or a program for loading images. How cool would it be to create an image on a modern computer and be able to load that into the TRS-80 and display it?
+
+
 ## Monthly Reviews
 *October 22, 2020 at 1:15p*
 
