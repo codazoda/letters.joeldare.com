@@ -1,5 +1,15 @@
 # Letters to Myself
 
+
+October 22, 2020 at 1:15p
+
+I should review these letters at least once a month. Maybe that will help me stay in my "creative mode" and remind me to expand on some of these ideas. My idea is that these are just my random ramblings but they can eventually become more complete blog posts.
+
+I also need a blogging platform again. I want that to be on joeldare.com and that's stopping me because I have my wiki and a bunch of other random stuff hosted on that domain. Converting it to a static site.
+
+I added a little "deploy" script to this project so that I can just run `./deploy.sh` and it gets pushed to Github.
+
+
 Pure React
 October 22, 2020 at 1:00p
 
