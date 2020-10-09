@@ -1,5 +1,19 @@
 # Letters to Myself
 
+## Protect an Old Computer
+*October 22, 2020 at 2:20p*
+
+I just posted this message on [Hacker News](https://news.ycombinator.com).
+
+I've got a working TRS-80 Color Computer 1 that was built sometime between 1980 and 1983. This is the same model that I used as a kid. I think my Mom purchased mine second-hand and I obtained and used it sometime around 1986. The one I have now was purchased on eBay about 10 years ago for $1.75.
+
+I would like to put the computer into a working display, perhaps just on a desk somewhere. What should I do to protect it so that it can run for as long as possible?
+
+For starters, I suspect I should condition the power to protect it from spikes. Is a decent surge protector enough?
+
+What are the things that are most likely to kill the machine if I set it up and use it regularly?
+
+
 ## TRS-80 Programming
 *October 22, 2020 at 1:55p*
 
