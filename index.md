@@ -1,7 +1,16 @@
 # Letters to Myself
 
+
+## Higley Meadows Social Network
+*October 10, 2020 at 12:15p*
+
+Last night I started working on a social network app. I guess I started that on a whim. I was thinking about working on my notion like editor and I switched gears and started to plan the social network app. I purchased the higleymeadows.com domain name some time ago and I would like to host a very simple social network there just for neighbors, and see how that goes.
+
+I do need to figure out what I want to do with my Notion like editor too. That will help me stay organized at work, I think.
+
+
 ## Protect an Old Computer
-*October 22, 2020 at 2:20p*
+*October 9, 2020 at 2:20p*
 
 I just posted this message on [Hacker News](https://news.ycombinator.com).
 
@@ -15,7 +24,7 @@ What are the things that are most likely to kill the machine if I set it up and 
 
 
 ## TRS-80 Programming
-*October 22, 2020 at 1:55p*
+*October 9, 2020 at 1:55p*
 
 I want to get out my TRS-80 computer and write some working software for it. I *copied* software into this machine as a kid but I never created my own application. I'd love to do that now and be able to run it on the machine that I purchased online a few years ago. That machine is currently stored in a cardboard box in my garage, I think.
 
@@ -25,7 +34,7 @@ What kind of software would I write for it? I have no idea. Maybe a little edito
 
 
 ## Monthly Reviews
-*October 22, 2020 at 1:15p*
+*October 9, 2020 at 1:15p*
 
 I should review these letters at least once a month. Maybe that will help me stay in my "creative mode" and remind me to expand on some of these ideas. My idea is that these are just my random ramblings but they can eventually become more complete blog posts.
 
@@ -35,7 +44,7 @@ I added a little "deploy" script to this project so that I can just run `./deplo
 
 
 ## Pure React
-*October 22, 2020 at 1:00p*
+*October 9, 2020 at 1:00p*
 
 I've been thinking about React more lately. I've been using React for around 4 years and I just can't bring myself to like it. The other day, however, I was working on a project and thought, "React would be good for this." That was the first time I had that feeling.
 
@@ -45,6 +54,6 @@ At it's root, React is just a JS framework. It's the way they recommend that you
 
 
 ## Starting to Write to Myself
-*October 22, 2020 at 11:45p*
+*October 9, 2020 at 11:45p*
 
 I need to write more. Sometimes It's hard to write because my thoughts aren't polished. So, I've decided to try writing to myself. I'm going to try to keep these letters to technical topics of things I'm working on, or thinking about, right now. I won't talk about my other hobbies unless there is a technical aspect to them. As an example, I won't write about making music, but I might write about software that I've created that helps me make music.
