@@ -1,5 +1,16 @@
 # Letters to Myself
 
+## 
+*October 11, 2020 at 8:45a*
+
+Today I had a thought about a new GUI that might work for several projects I'm thinking about right now. That GUI is basically just the modern GUI that everything mobile and web browsers seem to be using these days. It just consists of a menu (hamburger or dots) in the top-right corner. That would allow you to see all the commands you could click, including the keyboard shortcuts for those commands.
+
+I could use this design for Ponder (instead of the current file number and arrows). I could also use it for Scribe, using a ctrl-p (or similar) keyboard shortcut to open a little drop-down with a filename search. Then I don't have to design a recursive folder/file structure. Something I'm struggling with at the moment for some reason. Besides, a keystroke would be significantly faster than hunting through a directory structure.
+
+This is also the same way that I use Slack (command-k) and VS Code (ctrl-p), so it seems to be natural for me. Mouse users can still find their favorite commands in the menu. I think this will work well for a lot of things I'm thinking about now.
+
+Besides Ponder and Scribe, I think this would also work well for my BBS ideas. I was looking up homemade cantennas this morning and I think that would be a fun way for people to connect to the Wireless BBS idea I had, which is basically just a neighborhood network node that works line-of-sight and without an internet connection.
+
 
 ## Higley Meadows Social Network
 *October 10, 2020 at 12:15p*
