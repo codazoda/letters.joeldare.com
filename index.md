@@ -1,6 +1,6 @@
 # Letters to Myself
 
-## 
+## Thoughts on Project GUI
 *October 11, 2020 at 8:45a*
 
 Today I had a thought about a new GUI that might work for several projects I'm thinking about right now. That GUI is basically just the modern GUI that everything mobile and web browsers seem to be using these days. It just consists of a menu (hamburger or dots) in the top-right corner. That would allow you to see all the commands you could click, including the keyboard shortcuts for those commands.
