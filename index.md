@@ -1,5 +1,12 @@
 # Letters to Myself
 
+## Sales Document for an Editor Project
+*October 20, 2020 at 9:00p*
+
+I think I should create a "sales document" for my editor app. I can outline all the features I'm considering for the app and have a "sign up for early entry" button. That button would allow me to collect email addresses. Those, I would collect in a simple plain text document and send to manually. A document like that should work fine for lists of 250 or fewer people.
+
+If there is interest, then I can go on to build the app. If not, I can ask users for feedback about what they need in the tool. Maybe I ask the few who did sign up. Maybe I try again with different features.
+
 ## Thoughts on Project GUI
 *October 11, 2020 at 8:45a*
 
