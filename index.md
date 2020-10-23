@@ -1,5 +1,12 @@
 # Letters to Myself
 
+## Life Countdown
+*October 22, 2020 at 8:50p*
+
+I write a lot at almost exactly 9:00p...
+
+Tonight I came accross [Kevin Kelly's Life Countdown](https://kk.org/ct2/my-life-countdown-1/). I think I should borrow this idea and create my own life countdown, posting it prominantly in my browser somewhere.
+
 ## Convert an Image Into Basic Data Statements
 *October 21, 2020 at 9:00p*
 
