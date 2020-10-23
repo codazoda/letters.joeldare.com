@@ -1,5 +1,10 @@
 # Letters to Myself
 
+## Hide Fixed Elements
+*October 22, 2020 at 9:00p*
+
+I've got this extension, "Hide Fixed Elements by Andrew F". It seems that "popups" were a problem in the old Internet and browser vendors solved that problem. Now, fixed elements seem to be the modern problem. Web pages have rediculous fixed elements that prevent you from reading the page. Sure, you could JUST NOT READ the pages that have those, but they are everywhere. Advertising, floating headers, floating footers, floating video players, you've only got 3 more articles, and it goes on and on. This little extension, "Hide Fixed Elements" makes them dissapear with the click of a button and it's so refreshing. It's available for both Chrome and Firefox. Amazingly, it only has 150 users on Chrome. Crazy, given how useful it is to me. Wish it was on by default.
+
 ## Track my Writing
 *October 22, 2020 at 8:55p*
 
