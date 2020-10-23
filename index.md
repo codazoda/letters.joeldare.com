@@ -1,5 +1,12 @@
 # Letters to Myself
 
+## Track my Writing
+*October 22, 2020 at 8:55p*
+
+I think it would be a good idea to track my writing. I need to do this both at home and at work. I find value in writing as well as reading my words back later. I'm also interested in leaving a legacy of writing that can last as long as possible after I'm gone. I would love for some of the things I write to be useful to others and especially to be useful for others for a long time.
+
+I should write letters, to myself and others. I should write songs. I should write poems. I should write blog posts and emails. I should write and I should show plot my writing on a graph that's displayed clearly and visibly.
+
 ## Life Countdown
 *October 22, 2020 at 8:50p*
 
