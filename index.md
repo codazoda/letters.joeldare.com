@@ -1,5 +1,10 @@
 # Letters to Myself
 
+## Planning on Paper
+*October 26, 2020 at 9:30a*
+
+I read a blog post yesterday that talked about juggling three projects at a time. I feel like maybe that's what I should do. Also, I think that keeping track of my notes on paper might be a good idea. Maybe three small notebooks and a pencil are enough. I could keep a "journal" in the notebooks as I work on the project. That would allow me to summarize everything later too. Plus, I could keep little things like pixel positions and things for my TRS-80 CoCo slot project.
+
 ## Mouse Highlighter
 *October 26, 2020 at 9:30a*
 
