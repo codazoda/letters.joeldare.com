@@ -1,11 +1,46 @@
 # Letters to Myself
 
+## Hide Fixed Elements
+*October 22, 2020 at 9:00p*
+
+I've got this extension, "Hide Fixed Elements by Andrew F". It seems that "popups" were a problem in the old Internet and browser vendors solved that problem. Now, fixed elements seem to be the modern problem. Web pages have rediculous fixed elements that prevent you from reading the page. Sure, you could JUST NOT READ the pages that have those, but they are everywhere. Advertising, floating headers, floating footers, floating video players, you've only got 3 more articles, and it goes on and on. This little extension, "Hide Fixed Elements" makes them dissapear with the click of a button and it's so refreshing. It's available for both Chrome and Firefox. Amazingly, it only has 150 users on Chrome. Crazy, given how useful it is to me. Wish it was on by default.
+
+## Track my Writing
+*October 22, 2020 at 8:55p*
+
+I think it would be a good idea to track my writing. I need to do this both at home and at work. I find value in writing as well as reading my words back later. I'm also interested in leaving a legacy of writing that can last as long as possible after I'm gone. I would love for some of the things I write to be useful to others and especially to be useful for others for a long time.
+
+I should write letters, to myself and others. I should write songs. I should write poems. I should write blog posts and emails. I should write and I should show plot my writing on a graph that's displayed clearly and visibly.
+
+## Life Countdown
+*October 22, 2020 at 8:50p*
+
+I write a lot at almost exactly 9:00p...
+
+Tonight I came accross [Kevin Kelly's Life Countdown](https://kk.org/ct2/my-life-countdown-1/). I think I should borrow this idea and create my own life countdown, posting it prominantly in my browser somewhere.
+
+## Convert an Image Into Basic Data Statements
+*October 21, 2020 at 9:00p*
+
+Today I finished a working version of my toArray.html file, which uses JavaScript to convert an image into an array and then from that into old-school numbered BASIC using DATA statements. The output is in the console and then can be copied over as data to use in a TRS-80 program. This is in my TRS80 project on Github.
+
+The first image I worked on is the most complex image that I'll need for my slot machine app. It's about a 33x89 pixel image. That turned into 89 lines of BASIC code, which is a lot for an 8-bit computer. I think it can deal with that, but I'm not sure how much data it can deal with this way.
+
+One option I have is to write smaller programs that output the graphics to the screen and then I can capture the screen (or maybe parts of the screen) to a machine language file using CSAVEM. That, in turn, would just use a single page of graphics memory when it's loaded. I don't know if all that is necessary yet... if I'll run into limitations.
+
+Another option I have, which I've thought about a little, is compressing the data somehow. But the machine doesn't have a lot of power for compression and decompression, so it would likely be a vary nieve version of compression. Probably about all I could come up with anyway. One idea is to compress all the white space since most of this graphic will be in a single color. That's probably true for most of my graphics, although not all of them will be primarily white.
+
+## Sales Document for an Editor Project
+*October 20, 2020 at 9:00p*
+
+I think I should create a "sales document" for my editor app. I can outline all the features I'm considering for the app and have a "sign up for early entry" button. That button would allow me to collect email addresses. Those, I would collect in a simple plain text document and send to manually. A document like that should work fine for lists of 250 or fewer people.
+
+If there is interest, then I can go on to build the app. If not, I can ask users for feedback about what they need in the tool. Maybe I ask the few who did sign up. Maybe I try again with different features.
 
 ## TRS-80 Plugged In
 *October 14, 2020 at 9:00a*
 
 I got out my TRS-80 yesterday and plugged it in. Apparently I had not packed the TV/Computer switch box and had to order parts for it. It took a couple days to get those parts and then yesterday I plugged it in. After a little bit of fidgeting with the connections, it worked! I also connected it to a modern TV via a coax cable and that worked. It's amazing that the RF connection still works after 40 years.
-
 
 ## Thoughts on Project GUI
 *October 11, 2020 at 8:45a*
