@@ -1,5 +1,12 @@
 # Letters to Myself
 
+
+## TRS-80 Plugged In
+*October 14, 2020 at 9:00a*
+
+I got out my TRS-80 yesterday and plugged it in. Apparently I had not packed the TV/Computer switch box and had to order parts for it. It took a couple days to get those parts and then yesterday I plugged it in. After a little bit of fidgeting with the connections, it worked! I also connected it to a modern TV via a coax cable and that worked. It's amazing that the RF connection still works after 40 years.
+
+
 ## Thoughts on Project GUI
 *October 11, 2020 at 8:45a*
 
