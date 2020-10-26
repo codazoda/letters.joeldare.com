@@ -1,5 +1,10 @@
 # Letters to Myself
 
+## Mouse Highlighter
+*October 26, 2020 at 9:30a*
+
+I should take the Mouse Highlighter extension and turn it into a simple bookmarklet, write a quick blog post on it, and post it on JoelDare.com and then submit it to Hacker News. Maybe people would find it useful. Maybe.
+
 ## Hide Fixed Elements
 *October 22, 2020 at 9:00p*
 
