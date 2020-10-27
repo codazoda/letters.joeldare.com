@@ -1,5 +1,12 @@
 # Letters to Myself
 
+## State Machine
+*October 27, 2020 at 10:40p*
+
+I should learn about state machines. I should write one.
+
+I wonder, how would a state machine apply to the TRS-80 CoCo slot machine? This might be a bad idea, since it's old-school code. I should probably do a state machine outside of this.
+
 ## Planning on Paper
 *October 26, 2020 at 9:30a*
 
