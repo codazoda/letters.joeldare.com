@@ -1,7 +1,12 @@
 # Letters to Myself
 
+## What's on your Mind?
+**October 27, 2020 at 10:50a*
+
+Ask the question, "What's on your mind?" and write it to this file. Sort of a personal social network. Letters to yourself. Tweets to yourself. Whatever.
+
 ## State Machine
-*October 27, 2020 at 10:40p*
+*October 27, 2020 at 10:40a*
 
 I should learn about state machines. I should write one.
 
