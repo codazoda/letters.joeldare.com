@@ -1,7 +1,22 @@
 # Letters to Myself
 
+## Bookmarklettes
+*October 30, 2020 at 09:10p*
+
+I should start to create a series of bookmarklettes that helps me to write more. One example might be a "notes" or "quotes" bookmarklet that captures the page title, today's date, and the URL and starts a note page about that URL. Then, when I'm done, I can save the note (text file) or copy/paste it. Maybe others would find this useful by itself.
+
+My "what's on your mind" letter from a couple days ago could also be a bookmarklette. As could this "letters" document.
+
+Tonight I created a new repo called `notebook` and took some notes from a Y Combinator post in it. I joined the Startup School for people who aren't ready to start a startup yet. That was the first article in the course. Maybe the course is only a set of articles? Anyway, it's a 6-week course on creating a startup and it's free. I like the idea.
+
+I've had mixed ideas about my *Scibe* app. I'm trying to figure out exactly what that would be. Plain text and simple, for sure. Tags would be helpful. I found that out writing about Y Combinator. Those notes will go in my `read` pile but could also be tagged as "Startup School".
+
+I'm not writing letters to myself as often as I would like. I should be doing this multiple times a day. Maybe a bookmarklette would help. Maybe a reminder too (although it's easy to ignore phone reminders).
+
+I've also been thinking about keeping track of words written as a personal metric. I've got to figure out how to capture that (I could start with using `wc` on my new notebook and expand from there). I also need to decide where to display those for myself. My command line? A TV on my wall? A web page that is my new tab page? One of those. I should be able to hack together something on my Mac Mini using bash and git. Heck, the "new tab" idea would also tell me if the Mac was down. When it dies a little Raspberry Pi should be able to handle the same.
+
 ## What's on your Mind?
-**October 27, 2020 at 10:50a*
+*October 27, 2020 at 10:50a*
 
 Ask the question, "What's on your mind?" and write it to this file. Sort of a personal social network. Letters to yourself. Tweets to yourself. Whatever.
 
