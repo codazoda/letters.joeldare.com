@@ -1,4 +1,10 @@
 # Letters to Myself
+*November 5, 2020 at 1:45p*
+
+I read this blog post today about a set of simple plain-text ASCII image file formats. These formats are also outlined on Wikipedia. Maybe these would be good formats to use for my TRS-80 project. They aren't small, but they are simple and don't require much processing.
+
+https://www.vidarholen.net/contents/blog/?p=904
+https://en.wikipedia.org/wiki/Netpbm
 
 ## What's on your Mind?
 **October 27, 2020 at 10:50a*
