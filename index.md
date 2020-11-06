@@ -1,5 +1,12 @@
 # Letters to Myself
 
+## Sending SMS Messages to Myself
+*November 5, 2020 at 6:40p*
+
+Tonight I'm thinking about building a personal social network app. It's not a social network, clearly, but I want to be able to *tweet* to myself. Sending *SMS* type messages to myself. I imagine I may use it to replace this document of letters I'm writing. I think if I move it into the browser it will be a tiny bit easier to do. Also, sending myself short messages may encourage me to do it more.
+
+The app will add my titles, dates and times, like I've been putting in here. It will save it to another text-area and to localStorage. Later I can think about how I want to get it here. Maybe just copy/paste on a weekly basis or something. I'll figure that out later and I'll adapt it as I go.
+
 ## Plain-Text ASCII Image File Formats
 *November 5, 2020 at 1:45p*
 
