@@ -1,5 +1,12 @@
 # Letters to Myself
 
+## Oh Shit, I Forgot About Me
+*November 18, 2020 at 1:00p*
+
+I still want to do this via some kind of browser based app but I've stopped writing to myself too. I was doing it multiple times a day and now I'm not doing it at all. I only remembered because I was looking at my bash alias list and noticed I had created an alias for "letters".
+
+Oops. Sorry I forgot about me.
+
 ## Sending SMS Messages to Myself
 *November 5, 2020 at 6:40p*
 
